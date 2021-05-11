@@ -33,7 +33,10 @@ Looking for Android Developer position<br/>
 
 * Online Courses  
 RS-School,Udemy, SkillFactory
-
 * FreeIT / Android Development<br/>
 11.2020 - 4.2021<br/>
 Kotlin, Koin, MVVM, Room, LiveData, Coroutines, Firebase, RxKotlin, Gradle<br/>
+
+## Language<br/>
+ spoken A2
+ writing B1.<br/>
