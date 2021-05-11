@@ -2,9 +2,9 @@
 # Resume<br/>
 
 **Dzmitry Misiulia**<br/>
-
 E-mail: basket.baza@gmail.com<br/>
 Telegram: basked
+Phone: +375(29)821-03-44
 
 ## Summary<br/>
 Looking for Android Developer position<br/>
