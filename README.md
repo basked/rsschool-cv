@@ -1,1 +1,1 @@
-# [rsschool-cv](https://basked.github.io/rsschool-cv/cv) #
+# [rsschool-cv](https://basked.github.io/rsschool-cv/cv)#
